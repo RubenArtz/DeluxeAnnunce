@@ -10,3 +10,6 @@ This is my best work which is based on sending messages through the skins of pre
 - SkinsRestorer (Needed if you use the non-premium skins) - https://www.spigotmc.org/resources/2124
 - STN-Studios-API (Required if you use the Discord Bot) - https://bit.ly/3lfkOF6
 - DiscordSRV (Required if you use the Discord Bot) - https://www.spigotmc.org/resources/18494
+
+## Installation
+![FkSzhg7](https://user-images.githubusercontent.com/49426855/129830712-ca70c06f-8029-4510-ac10-38ca6f06c5d7.png)
