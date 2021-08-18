@@ -1,5 +1,8 @@
-# DeluxeAnnunce
+# Deluxe Annunce
 This is my best work which is based on sending messages through the skins of premium and non-premium players.
+
+## Wiki
+- Github - https://github.com/RubenArtz/DeluxeAnnunce/wiki
 
 ## Dependencies
 - PlaceholderAPI (Optional) - https://www.spigotmc.org/resources/6245
