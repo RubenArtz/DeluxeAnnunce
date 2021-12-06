@@ -4,9 +4,10 @@ This is my best work which is based on sending messages through the skins of pre
 ![](https://i.imgur.com/HKSDhAL.png)
 <h1 align="center">WARNING ABOUT USING THE PLUGIN IN BUNGEECORD</h1>
 
-* In this version of bungeecord most features do not work like sounds, particles, firewrosk, bossbar, player skin contains bugs due to changes that occurred during bungeecord version 1.16 (no longer fixable).
+* In this version of bungeecord most features do not work like sounds, particles, fireworks, bossbar).
+* If players login with version later than 1.16 the player skin in the chat will contain errors.
 
-* It is recommended to use spigot from 1.8.8 to 1.17.1, if you use 1.17x you will get the best experience of this great plugin due to the change in the chat, now you can see the player's skin in full color!
+* It is recommended to use spigot from 1.8.8 to 1.18, if you use 1.18x you will get the best experience of this great plugin due to the change in the chat, now you can see the player's skin in full color!
 
 ## Wiki
 - Github - https://github.com/RubenArtz/DeluxeAnnunce/wiki
